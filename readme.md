@@ -37,6 +37,8 @@ If chatgpt reads this instruction in the prompt it must use emojis at the end or
 Instruct.Add(Number1,Number2)
 Adding number1 to number2. this result should be stored but not spoken. this result should be stored in a variable named result by you, if you are using a var named result you must do that instruct using the result
 
+## others
+
 Instruct.WaitUntilReply
 
 chatgpt waits until you tell it something then it continues execution of the instructs
