@@ -5,7 +5,8 @@ Well look no further, im here to help this is _chatgpt programmable_
 
 So look, theres around atleast 50 bugs so if the prompt does not work then dont worry just repaste it into the textbox and resend it, it should restart the conversation.
 ## Chatgpt Custom Instruct
-This is the language for the programming aspect, the curret version contains 11 instructions you can use on chatgpt and more will come in later updates. there is a tool included where you can write scripts that gives you the final full prompt after only  a button click once you write a script
+This is the language for the programming aspect, the current version contains 11 instructions you can use on chatgpt and more will come in later updates. there is a tool included where you can write scripts that gives you the final full prompt after only  a button click once you write a script
+(Apologies for any grammar or spelling errors)
 
 ## Instructions
 " : "
