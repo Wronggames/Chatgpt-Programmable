@@ -1,16 +1,17 @@
-## Updated.
+## Chatgpt programmable v3
 
-it works now, i released it too early but it works, syntax and commands have just BARELY changed. so just read through the prompt to get the idea now instead of including the script IN the prompt just say it after using the prompt. the new script syntax is:
-```CGPT
-##User_Script tool
-$$ THIS IS A SCRIPT FOR YOU TO RUN
+V3 now has math, 
+Addition
+Multiplication
+Division
+Subtraction
+Math.Random
+it also features variables 
 
-Class.new("BehaviorDefiner"):(
-    Instructor.add(Behavior.Happy)
-        Instructor.add(Behavior.Silly)
-          Instructor.add(Behavior.UseEmojis)
-):
-
-Class.BehaviorDefiner:Run
-ForceMessage("Hello im chatgpt - programmable!")
 ```
+var Hello = "Hello"
+
+ForceMessage(var.Hello)
+```
+
+there were also internal changes, and now theres a scripts file for a few default starting scripts
