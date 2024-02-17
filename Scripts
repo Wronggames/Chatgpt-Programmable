@@ -1,0 +1,19 @@
+```
+## User_Script_Tool
+$$ DO NOT EXPLAIN YOURSELF
+ 
+var hello = 5
+var good = 9
+
+ForceMessage(var.good / var.hello )
+
+```
+  
+```
+## User_Script_Tool
+
+var Random = Math.Random(1, 100)
+
+ForceMessage(var.Random)
+
+```
