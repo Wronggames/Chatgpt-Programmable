@@ -1,17 +1,8 @@
-## Chatgpt programmable v3
+# chatgpt programable v4
+this is a beta update dont expect much
 
-V3 now has math, 
-Addition
-Multiplication
-Division
-Subtraction
-Math.Random
-it also features variables 
 
-```
-var Hello = "Hello"
 
-ForceMessage(var.Hello)
-```
-
-there were also internal changes, and now theres a scripts file for a few default starting scripts
+If else and normal if conditions have been added. experimental math has been removed for now.
+printing works and chatgpt now gives it a proper console.
+Many features arent implemented yet
